@@ -16,6 +16,8 @@ Install
 =======
 If you're just wanting to use the extension, you can grab the release from here:
 
+[Mozilla Add-ons](https://addons.mozilla.org/en-US/firefox/addon/hiddeneverywhere/)
+
 [Github Release Download Link](https://github.com/Someguy123/HiddenEverywhere/releases)
 
 If you're wanting to develop this extension, simply `git clone` the repo and:
