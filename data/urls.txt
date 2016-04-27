@@ -1,2 +1,4 @@
-LiteVault *.litevault.net vaultu7dxw5bbg37.onion
+Blockchain.info *.blockchain.info blockchainbdgpzk.onion
+DeepDotWeb *.deepdotweb.com deepdot35wvmeyd5.onion
 Facebook *.facebook.com facebookcorewwwi.onion
+LiteVault *.litevault.net vaultu7dxw5bbg37.onion
