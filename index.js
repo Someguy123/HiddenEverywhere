@@ -3,6 +3,7 @@ var pageMod = require("sdk/page-mod");
 
 // Load URL data from a flat txt file
 var urls = self.data.load('urls.txt').trim().split('\n');
+
 for(var url_index in urls) {
     console.log(url);
     var url = urls[url_index],
@@ -14,7 +15,7 @@ for(var url_index in urls) {
     pageMod.PageMod({
         include: match,
         contentScriptFile: self.data.url("bottombar.js"),
-        contentScript: "showBar('"+title+"', '"+hidden+"');"
+        contentScriptOptions: {hidden: hidden, title: title, match:match} 
     });
 }
 

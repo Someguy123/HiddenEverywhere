@@ -1,19 +1,37 @@
 // {TITLE} is the name of the service
-// {HIDDEN} is the URL of the service, without http in front
-var bar_text = "Good news! {TITLE} has a hidden service. Simply click the link (new tab): "
-             + '<a style="color:#3cd81e" href="http://{HIDDEN}" target="_BLANK">{HIDDEN}</a>'
-             + '<a style="text-align: right; float: right;" href="#" onClick="document.getElementById(\'hiddenservicebar\').remove();">Close</a>';
+var bar_text = "Good news! {TITLE} has a hidden service. Simply click the link (new tab): ";
 
-function showBar(title, hidden) {
+function showBar() {
     var bar = document.createElement("div");
     bar.id = "hiddenservicebar";
-    var replaced = bar_text.replace(/\{TITLE\}/g, title)
-                            .replace(/\{HIDDEN\}/g, hidden);
+
+    // generate the sanitized hidden service link
+    var hsLink = document.createElement("a");
+    hsLink.href = "http://" + self.options.hidden;
+    hsLink.textContent = self.options.hidden;
+    hsLink.target = "_BLANK";
+    hsLink.style.color = "#3cd81e";
+
+    // generate the "close" link on the right of the bar
+    var closeLink = document.createElement("a");
+    closeLink.href = "#";
+    closeLink.onClick = "document.getElementById('hiddenservicebar').remove();";
+    closeLink.style.textAlign = "right";
+    closeLink.style.float = "right";
+    closeLink.textContent = "Close";
+
+    var replaced = bar_text.replace(/\{TITLE\}/g, self.options.title);
+
     // add the text to the bar
     var bar_p = document.createElement("p");
-    bar_p.innerHTML = replaced;
     bar_p.style.color = "rgb(221, 221, 221)";
+    bar_p.appendChild(document.createTextNode(replaced));
+    // append the sanitized links to the text
+    bar_p.appendChild(hsLink);
+    bar_p.appendChild(closeLink);
+    // now attach the paragraph to the main div
     bar.appendChild(bar_p);
+
     // style the bar
     bar.style.backgroundColor = "rgb(95, 51, 180)";
     bar.style.width = "100%";
@@ -25,3 +43,5 @@ function showBar(title, hidden) {
     // now inject it at the beginning of the document
     document.body.insertBefore(bar,document.body.children[0]);
 }
+
+showBar();
