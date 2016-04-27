@@ -1,7 +1,7 @@
 {
   "title": "HiddenEverywhere",
   "name": "hiddeneverywhere",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "An add-on to help TOR users find hidden services for ClearNet sites they use every day",
   "main": "index.js",
   "author": "Someguy123",
@@ -12,5 +12,6 @@
   "license": "MIT",
   "keywords": [
     "jetpack"
-  ]
+  ],
+  "permissions": {"private-browsing": true}
 }
