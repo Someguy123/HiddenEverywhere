@@ -7,5 +7,5 @@ BestBlog *.bestblog.de tpq5sxk5cgdf35uq.onion
 DuckDuckGo *.duckduckgo.com 3g2upl4pq6kufc4m.onion
 ThePirateBay *.thepiratebay.se uj3wazyk5u4hnvtk.onion
 Parckwart *.parckwart.de parckwartvo7fskp.onion
-Chloe chloe.re chloenlpvlemmmmd.onion
-swehack swehack.org swehackmzys2gpmb.onion
+Chloe *.chloe.re chloenlpvlemmmmd.onion
+swehack *.swehack.org swehackmzys2gpmb.onion
