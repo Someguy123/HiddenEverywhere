@@ -10,3 +10,4 @@ Parckwart *.parckwart.de parckwartvo7fskp.onion
 Chloe *.chloe.re chloenlpvlemmmmd.onion
 swehack *.swehack.org swehackmzys2gpmb.onion
 Keybase *.keybase.io fncuwbiisyh6ak3i.onion
+ObscuredFiles obscuredfiles.com obscuredtzevzthp.onion
