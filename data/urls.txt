@@ -1,13 +1,19 @@
-Blockchain.info *.blockchain.info blockchainbdgpzk.onion
-DeepDotWeb *.deepdotweb.com deepdot35wvmeyd5.onion
-Facebook *.facebook.com facebookcorewwwi.onion
-LiteVault *.litevault.net vaultu7dxw5bbg37.onion
 Ahmia *.ahmia.fi msydqstlz2kzerdg.onion
 BestBlog *.bestblog.de tpq5sxk5cgdf35uq.onion
-DuckDuckGo *.duckduckgo.com 3g2upl4pq6kufc4m.onion
-ThePirateBay *.thepiratebay.se uj3wazyk5u4hnvtk.onion
-Parckwart *.parckwart.de parckwartvo7fskp.onion
+Blockchain.info *.blockchain.info blockchainbdgpzk.onion
 Chloe *.chloe.re chloenlpvlemmmmd.onion
-swehack *.swehack.org swehackmzys2gpmb.onion
+DeepDotWeb *.deepdotweb.com deepdot35wvmeyd5.onion
+DuckDuckGo *.duckduckgo.com 3g2upl4pq6kufc4m.onion
+Facebook *.facebook.com facebookcorewwwi.onion
 Keybase *.keybase.io fncuwbiisyh6ak3i.onion
+LiteVault *.litevault.net vaultu7dxw5bbg37.onion
 ObscuredFiles obscuredfiles.com obscuredtzevzthp.onion
+Parckwart *.parckwart.de parckwartvo7fskp.onion
+Riseup Black black.riseup.net cwoiopiifrlzcuos.onion
+Riseup Labs laps.riseup.net yfm6sdhnfbulplsw.onion
+Riseup Lists lists.riseup.net xpgylzydxykgdqyg.onion
+Riseup Mail mail.riseup.net zsolxunfmbfuq7wf.onion
+Riseup Share share.riseup.net 6zc6sejeho3fwrd4.onion
+ThePirateBay *.thepiratebay.se uj3wazyk5u4hnvtk.onion
+We Riseup we.riseup.net 7lvd7fa5yfbdqaii.onion
+swehack *.swehack.org swehackmzys2gpmb.onion
