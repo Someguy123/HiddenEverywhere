@@ -15,7 +15,9 @@ function showBar() {
     // generate the "close" link on the right of the bar
     var closeLink = document.createElement("a");
     closeLink.href = "#";
-    closeLink.onClick = "document.getElementById('hiddenservicebar').remove();";
+    closeLink.addEventListener("click", function(e) {
+        document.getElementById('hiddenservicebar').remove(); 
+    });
     closeLink.style.textAlign = "right";
     closeLink.style.float = "right";
     closeLink.textContent = "Close";
@@ -34,11 +36,22 @@ function showBar() {
 
     // style the bar
     bar.style.backgroundColor = "rgb(95, 51, 180)";
-    bar.style.width = "100%";
+    bar.style.fontFamily = '"Lucida Grande",Verdana,Arial,Helvetica,sans-serif';
+    // we don't fill the page just because
+    // sometimes the close button goes offscreen
+    // so let's center it instead...
+    bar.style.width = "90%";
     bar.style.position = "fixed";
     bar.style.height = "35px";
     bar.style.padding = "5px";
+    bar.style.borderRadius = "0 0 10px 10px";
+    bar.style.MozBorderRadius = "0 0 10px 10px";
     bar.style.top = "0";
+    // center bar
+    bar.style.left = "5vw";
+    // yes we need a zIndex this crazy, because cloudflare also loves
+    // to use a crazy zIndex that we have to compete with, or the bar
+    // won't show up
     bar.style.zIndex = 9999999999;
     // now inject it at the beginning of the document
     document.body.insertBefore(bar,document.body.children[0]);

@@ -9,13 +9,13 @@ Keybase *.keybase.io fncuwbiisyh6ak3i.onion
 LiteVault *.litevault.net vaultu7dxw5bbg37.onion
 ObscuredFiles obscuredfiles.com obscuredtzevzthp.onion
 Parckwart *.parckwart.de parckwartvo7fskp.onion
-Riseup Black black.riseup.net cwoiopiifrlzcuos.onion
-Riseup Labs laps.riseup.net yfm6sdhnfbulplsw.onion
-Riseup Lists lists.riseup.net xpgylzydxykgdqyg.onion
-Riseup Mail mail.riseup.net zsolxunfmbfuq7wf.onion
-Riseup Share share.riseup.net 6zc6sejeho3fwrd4.onion
+RiseupBlack black.riseup.net cwoiopiifrlzcuos.onion
+RiseupLabs labs.riseup.net yfm6sdhnfbulplsw.onion
+RiseupLists lists.riseup.net xpgylzydxykgdqyg.onion
+RiseupMail mail.riseup.net zsolxunfmbfuq7wf.onion
+RiseupShare share.riseup.net 6zc6sejeho3fwrd4.onion
 ThePirateBay *.thepiratebay.se uj3wazyk5u4hnvtk.onion
-We Riseup we.riseup.net 7lvd7fa5yfbdqaii.onion
+WeRiseup we.riseup.net 7lvd7fa5yfbdqaii.onion
 swehack *.swehack.org swehackmzys2gpmb.onion
 CockLi cock.li wwwcocklicdexedh.onion
 CockLiWWW www.cock.li wwwcocklicdexedh.onion
