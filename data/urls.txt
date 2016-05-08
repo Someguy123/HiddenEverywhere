@@ -17,3 +17,7 @@ Riseup Share share.riseup.net 6zc6sejeho3fwrd4.onion
 ThePirateBay *.thepiratebay.se uj3wazyk5u4hnvtk.onion
 We Riseup we.riseup.net 7lvd7fa5yfbdqaii.onion
 swehack *.swehack.org swehackmzys2gpmb.onion
+CockLi cock.li wwwcocklicdexedh.onion
+CockLiWWW www.cock.li wwwcocklicdexedh.onion
+CockliWebMail mail.cock.li cockmailwwfvrtqj.onion
+TransferSH *.transfer.sh jxm5d6emw5rknovg.onion
