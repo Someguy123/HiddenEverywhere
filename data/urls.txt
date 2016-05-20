@@ -21,3 +21,5 @@ CockLi cock.li wwwcocklicdexedh.onion
 CockLiWWW www.cock.li wwwcocklicdexedh.onion
 CockliWebMail mail.cock.li cockmailwwfvrtqj.onion
 TransferSH *.transfer.sh jxm5d6emw5rknovg.onion
+Whonix *.whonix.org kkkkkkkkkk63ava6.onion
+SarahJamieLewis *.sarahjamielewis.com vdfmtrtpneosarah.onion
