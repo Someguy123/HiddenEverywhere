@@ -14,7 +14,7 @@ RiseupLabs labs.riseup.net yfm6sdhnfbulplsw.onion
 RiseupLists lists.riseup.net xpgylzydxykgdqyg.onion
 RiseupMail mail.riseup.net zsolxunfmbfuq7wf.onion
 RiseupShare share.riseup.net 6zc6sejeho3fwrd4.onion
-ThePirateBay *.thepiratebay.se uj3wazyk5u4hnvtk.onion
+ThePirateBay *.thepiratebay.org uj3wazyk5u4hnvtk.onion
 WeRiseup we.riseup.net 7lvd7fa5yfbdqaii.onion
 swehack *.swehack.org swehackmzys2gpmb.onion
 CockLi cock.li wwwcocklicdexedh.onion
