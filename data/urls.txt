@@ -25,3 +25,4 @@ TransferSH *.transfer.sh jxm5d6emw5rknovg.onion
 Whonix *.whonix.org kkkkkkkkkk63ava6.onion
 SarahJamieLewis *.sarahjamielewis.com vdfmtrtpneosarah.onion
 KickAssTorrents *.kat.cr lsuzvpko6w6hzpnn.onion
+AnonBlog chaoswebs.net/anonblog/ oqgxnwyrufcvgu2o.onion
