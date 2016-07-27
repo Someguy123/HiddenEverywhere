@@ -16,6 +16,7 @@ KickAssTorrents *.kat.cr lsuzvpko6w6hzpnn.onion
 LiteVault *.litevault.net vaultu7dxw5bbg37.onion
 ObscuredFiles obscuredfiles.com obscuredtzevzthp.onion
 Parckwart *.parckwart.de parckwartvo7fskp.onion
+PorncornTimeCE *.popcorntimece.ch 5mbvonaxe5irufze.onion
 PrivacyInternational *.privacyinternational.org privacyintyqcroe.onion
 RiseupBlack black.riseup.net cwoiopiifrlzcuos.onion
 RiseupLabs labs.riseup.net yfm6sdhnfbulplsw.onion
