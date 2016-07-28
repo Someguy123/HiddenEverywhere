@@ -16,6 +16,7 @@ KickAssTorrents *.kat.cr lsuzvpko6w6hzpnn.onion
 LiteVault *.litevault.net vaultu7dxw5bbg37.onion
 ObscuredFiles obscuredfiles.com obscuredtzevzthp.onion
 Parckwart *.parckwart.de parckwartvo7fskp.onion
+PorncornTimeCE *.popcorntimece.ch 5mbvonaxe5irufze.onion
 PrivacyInternational *.privacyinternational.org privacyintyqcroe.onion
 RiseupBlack black.riseup.net cwoiopiifrlzcuos.onion
 RiseupLabs labs.riseup.net yfm6sdhnfbulplsw.onion
@@ -23,6 +24,7 @@ RiseupLists lists.riseup.net xpgylzydxykgdqyg.onion
 RiseupMail mail.riseup.net zsolxunfmbfuq7wf.onion
 RiseupShare share.riseup.net 6zc6sejeho3fwrd4.onion
 SarahJamieLewis *.sarahjamielewis.com vdfmtrtpneosarah.onion
+Secushare *.secushare.org secushare.cheettyiapsyciew.onion
 Sci-Hub sci-hub.ac scihub22266oqcxt.onion
 Sci-Hub sci-hub.bz scihub22266oqcxt.onion
 Sci-Hub sci-hub.cc scihub22266oqcxt.onion
