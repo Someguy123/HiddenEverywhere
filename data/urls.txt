@@ -11,6 +11,7 @@ DeepDotWeb *.deepdotweb.com deepdot35wvmeyd5.onion
 Demonoid demonoid.pw demonhkzoijsvvui.onion:8080
 DuckDuckGo *.duckduckgo.com 3g2upl4pq6kufc4m.onion
 Facebook *.facebook.com facebookcorewwwi.onion
+GuerrillaMail *.guerrillamail.com grrmailb3fxpjbwm.onion
 Keybase *.keybase.io fncuwbiisyh6ak3i.onion
 KickAssTorrents *.kat.cr lsuzvpko6w6hzpnn.onion
 LiteVault *.litevault.net vaultu7dxw5bbg37.onion
