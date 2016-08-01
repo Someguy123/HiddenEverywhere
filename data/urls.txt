@@ -35,3 +35,44 @@ ThePirateBay *.thepiratebay.se uj3wazyk5u4hnvtk.onion
 TransferSH *.transfer.sh jxm5d6emw5rknovg.onion
 WeRiseup we.riseup.net 7lvd7fa5yfbdqaii.onion
 Whonix *.whonix.org kkkkkkkkkk63ava6.onion
+
+"DebConf: Debian 10th Birthday Party Coordination Page" 10years.debconf.org b5tearqs4v4nvbup.onion
+"AppStream Report for Debian" appstream.debian.org 5j7saze5byfqccf3.onion
+"Debian Backports" backports.debian.org 6f6ejaiiixypfqaf.onion
+"Bits from Debian" bits.debian.org 4ypuji3wwrg5zoxm.onion
+"Debian Pure Blends" blends.debian.org bcwpy5wca456u7tz.onion
+d-i.debian.org d-i.debian.org f6syxyjdgzbeacry.onion
+"Debian Package of the Day" debaday.debian.net ammd7ytxcpeavif2.onion
+"First Debian Conference" debconf0.debconf.org ynr7muu3263jikep.onion
+"Debian Conference 1" debconf1.debconf.org 4do6yq4iwstidagh.onion
+"Debian Conference 2" debconf2.debconf.org ugw3zjsayleoamaz.onion
+"Debian Conference 3" debconf3.debconf.org zdfsyv3rubuhpql3.onion
+"Debian Conference 4" debconf4.debconf.org eeblrw5eh2is36az.onion
+"Debian Conference 5" debconf5.debconf.org 3m2tlhjsoxws2akz.onion
+"Debian Conference 6" debconf6.debconf.org gmi5gld3uk5ozvrv.onion
+"Debian Conference 7" debconf7.debconf.org 465rf3c2oskkqc24.onion
+debdeltas.debian.net debdeltas.debian.net vral2uljb3ndhhxr.onion
+debug.mirrors.debian.org debug.mirrors.debian.org ktqxbqrhg5ai2c7f.onion
+"Debian System Administrators" dsa.debian.org f7bphdxlqca3sevt.onion
+es.debconf.org es.debconf.org nwvk3svshonwqfjs.onion
+fr.debconf.org fr.debconf.org ythg247lqkx2gpgx.onion
+ftp.debian.org ftp.debian.org vwakviie2ienjx6t.onion
+ftp.ports.debian.org ftp.ports.debian.org nbybwh4atabu6xq3.onion
+incoming.debian.org incoming.debian.org oscbw3h7wrfxqi4m.onion
+incoming.ports.debian.org incoming.ports.debian.org vyrxto4jsgoxvilf.onion
+Lintian lintian.debian.org ohusanrieoxsxlmh.onion
+metadata.ftp-master.debian.org metadata.ftp-master.debian.org cmgvqnxjoiqthvrc.onion
+"Debian micronews" micronews.debian.net y5framonnh2o2gjb.onion
+"Distro Summit at LCA 2010" miniconf10.debconf.org tpez4zz5a4civ6ew.onion
+"Debian Mozilla team" mozilla.debian.net fkbjngvraoici6k7.onion
+"Debian News" news.debian.net tz4732fxpkehod36.onion
+onion.debian.org onion.debian.org 5nca3wxl33tzlzj5.onion
+"Planet Debian" planet.debian.org gnvweaoe2xzjqldu.onion
+"Debian Release Management" release.debian.org 6nvqpgx7bih375fx.onion
+DebRTC.org rtc.debian.org 3c2rjwn2worxveug.onion
+"Debian Security Team" security-team.debian.org ynvs3km32u33agwq.onion
+security.debian.org security.debian.org sgvtcaew4bxjd7ln.onion
+"Timeline of the Debian Project" timeline.debian.net qqvyib4j3fz66nuc.onion
+wnpp-by-tags.debian.net wnpp-by-tags.debian.net gl3n4wtekbfaubye.onion
+Debian www.debian.org sejnfjrq6szgca7v.onion
+"Debian Ports" www.ports.debian.org lljrzrimek6if67j.onion
