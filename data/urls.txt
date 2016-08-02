@@ -7,6 +7,8 @@ Chloe *.chloe.re chloenlpvlemmmmd.onion
 CockLi cock.li wwwcocklicdexedh.onion
 CockliWebMail mail.cock.li cockmailwwfvrtqj.onion
 CockLiWWW www.cock.li wwwcocklicdexedh.onion
+Debian *.debian.org sejnfjrq6szgca7v.onion
+DebianNews news.debian.org tz4732fxpkehod36.onion
 DeepDotWeb *.deepdotweb.com deepdot35wvmeyd5.onion
 Demonoid demonoid.pw demonhkzoijsvvui.onion:8080
 DuckDuckGo *.duckduckgo.com 3g2upl4pq6kufc4m.onion
@@ -16,6 +18,7 @@ GuerrillaMail *.guerrillamail.com grrmailb3fxpjbwm.onion
 Keybase *.keybase.io fncuwbiisyh6ak3i.onion
 LiteVault *.litevault.net vaultu7dxw5bbg37.onion
 ObscuredFiles obscuredfiles.com obscuredtzevzthp.onion
+OnionRouter *.onion-router.net hzmun3rnnxjhkyhg.onion
 Parckwart *.parckwart.de parckwartvo7fskp.onion
 PopcornTimeCE *.popcorntimece.ch 5mbvonaxe5irufze.onion
 PrivacyInternational *.privacyinternational.org privacyintyqcroe.onion
@@ -32,6 +35,8 @@ Sci-Hub sci-hub.cc scihub22266oqcxt.onion
 swehack *.swehack.org swehackmzys2gpmb.onion
 ThePirateBay *.thepiratebay.org uj3wazyk5u4hnvtk.onion
 ThePirateBay *.thepiratebay.se uj3wazyk5u4hnvtk.onion
+TorProject *.torproject.org expyuzz4wqqyqhjn.onion
+TorProjectResearch research.torproject.org wcgqzqyfi7a6iu62.onion
 TransferSH *.transfer.sh jxm5d6emw5rknovg.onion
 WeRiseup we.riseup.net 7lvd7fa5yfbdqaii.onion
 Whonix *.whonix.org kkkkkkkkkk63ava6.onion
