@@ -31,9 +31,9 @@ If you're wanting to develop this extension, simply `git clone` the repo and:
 New Domains
 ===========
 
-To add a new domain, simply fork the repo, add it to `data/urls.txt` at the bottom of the list, and submit a pull request. It will be added ASAP.
+To add a new domain, simply fork the repo, add it to `data/urls.json` at the bottom of the list, and submit a pull request. It will be added ASAP.
 
-The format is: TITLE URL-PATTERN ONION-URL
+We use a simple JSON format, which is easy to modify.
 
 We only support the EXACT and WILDCARD matches in the [URL Pattern](https://developer.mozilla.org/en-US/Add-ons/SDK/Low-Level_APIs/util_match-pattern)
 
