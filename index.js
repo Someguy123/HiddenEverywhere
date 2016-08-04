@@ -3,14 +3,15 @@ var self = require("sdk/self");
 var pageMod = require("sdk/page-mod");
 
 // Load URL data from a flat txt file
-var urls = self.data.load('urls.txt').trim().split('\n');
+var urls = self.data.load('urls.json');
+urls = JSON.parse(urls);
 
 for(var url_index in urls) {
     var url = urls[url_index],
-        split_url = url.trim().split(' '),
-        match = split_url[1],
-        title = split_url[0],
-        hidden = split_url[2];
+        //split_url = url.trim().split(' '),
+        match = url.match, 
+        title = url.title,
+        hidden = url.onion;
 
     // if there's no wildcard, or protocol, then add http and https
     if(match.indexOf("*") == -1 && match.indexOf("://") == -1) {
