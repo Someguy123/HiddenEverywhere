@@ -1,5 +1,10 @@
 [
     {
+        "match": "*.8ch.net",
+        "title": "8Chan",
+        "onion": "oxwugzccvk3dk6tj.onion"
+    },
+    {
         "match": "*.ahmia.fi",
         "title": "Ahmia",
         "onion": "msydqstlz2kzerdg.onion"
