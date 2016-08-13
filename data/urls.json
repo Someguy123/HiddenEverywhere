@@ -175,6 +175,11 @@
         "onion": "zsolxunfmbfuq7wf.onion"
     },
     {
+        "match": "netzpolitik.org",
+        "title": "Netzpolitik",
+        "onion": "p6dpm4ozk6d2pxqa.onion"
+    },
+    {
         "match": "share.riseup.net",
         "title": "RiseupShare",
         "onion": "6zc6sejeho3fwrd4.onion"
