@@ -190,6 +190,12 @@
         "onion": "344c6kbnjnljjzlz.onion"
     },
     {
+        "match": "bitmessage.ch",
+        "title": "BitmessageMailGateway",
+        "onion": "bitmailendavkbec.onion"
+    },
+
+    {
         "match": "share.riseup.net",
         "title": "RiseupShare",
         "onion": "6zc6sejeho3fwrd4.onion"
