@@ -185,6 +185,11 @@
         "onion": "mail2tor2zyjdctd.onion"
     },
     {
+        "match": "vfemail.net",
+        "title": "VFEmail",
+        "onion": "344c6kbnjnljjzlz.onion"
+    },
+    {
         "match": "share.riseup.net",
         "title": "RiseupShare",
         "onion": "6zc6sejeho3fwrd4.onion"
