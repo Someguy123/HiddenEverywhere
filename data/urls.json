@@ -180,6 +180,11 @@
         "onion": "p6dpm4ozk6d2pxqa.onion"
     },
     {
+        "match": "mail2tor.com",
+        "title": "Mail2Tor",
+        "onion": "mail2tor2zyjdctd.onion"
+    },
+    {
         "match": "share.riseup.net",
         "title": "RiseupShare",
         "onion": "6zc6sejeho3fwrd4.onion"
