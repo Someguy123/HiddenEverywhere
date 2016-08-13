@@ -194,14 +194,11 @@
         "title": "BitmessageMailGateway",
         "onion": "bitmailendavkbec.onion"
     },
-https://www.autistici.org/en/stuff/man_anon/tor.html
-
     {
         "match": "autistici.org",
         "title": "Autistici/Inventati",
         "onion": "wi7qkxyrdpu5cmvr.onion"
     },
-
     {
         "match": "share.riseup.net",
         "title": "RiseupShare",
