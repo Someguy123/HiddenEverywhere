@@ -225,6 +225,11 @@
         "onion": "uj3wazyk5u4hnvtk.onion"
     },
     {
+        "match": "compass.torproject.org",
+        "title": "Tor Compass",
+        "onion": "lwygejoa6fm26eef.onion"
+    },
+    {
         "match": "deb.torproject.org",
         "title": "TorDeb",
         "onion": "sdscoq7snqtznauu.onion"
@@ -233,6 +238,26 @@
         "match": "dist.torproject.org",
         "title": "TorDist",
         "onion": "rqef5a5mebgq46y5.onion"
+    },
+    {
+        "match": "help.torproject.org",
+        "title": "TorHelp",
+        "onion": "54nujbl4qohb5qdp.onion"
+    },
+    {
+        "match": "gitweb.torproject.org",
+        "title": "Tor Gitweb",
+        "onion": "jqs44zhtxl2uo6gk.onion"
+    },
+    {
+        "match": "jenkins.torproject.org",
+        "title": "Jenkins",
+        "onion": "f7lqb5oicvsahone.onion"
+    },
+    {
+        "match": "metrics.torproject.org",
+        "title": "Tor Metrics",
+        "onion": "rougmnvswfsmd4dq.onion"
     },
     {
         "match": "onion.torproject.org",
@@ -258,6 +283,11 @@
         "match": "stem.torproject.org",
         "title": "Tor Stem",
         "onion": "vt5hknv6sblkgf22.onion"
+    },
+    {
+        "match": "trac.torproject.org",
+        "title": "Tor Bug Tracker & Wiki",
+        "onion": "ea5faa5po25cf7fb.onion"
     },
     {
         "match": "*.transfer.sh",
