@@ -175,6 +175,31 @@
         "onion": "zsolxunfmbfuq7wf.onion"
     },
     {
+        "match": "netzpolitik.org",
+        "title": "Netzpolitik",
+        "onion": "p6dpm4ozk6d2pxqa.onion"
+    },
+    {
+        "match": "mail2tor.com",
+        "title": "Mail2Tor",
+        "onion": "mail2tor2zyjdctd.onion"
+    },
+    {
+        "match": "vfemail.net",
+        "title": "VFEmail",
+        "onion": "344c6kbnjnljjzlz.onion"
+    },
+    {
+        "match": "bitmessage.ch",
+        "title": "BitmessageMailGateway",
+        "onion": "bitmailendavkbec.onion"
+    },
+    {
+        "match": "autistici.org",
+        "title": "Autistici/Inventati",
+        "onion": "wi7qkxyrdpu5cmvr.onion"
+    },
+    {
         "match": "share.riseup.net",
         "title": "RiseupShare",
         "onion": "6zc6sejeho3fwrd4.onion"
