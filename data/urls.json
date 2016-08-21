@@ -35,7 +35,7 @@
         "onion": "z5tfsnikzulwicxs.onion"
     },
     {
-        "match": "btdigg.org",
+        "match": "*.btdigg.org",
         "title": "BTDigg",
         "onion": "btdigg63cdjmmmqj.onion"
     },
@@ -80,7 +80,7 @@
         "onion": "deepdot35wvmeyd5.onion"
     },
     {
-        "match": "demonoid.pw",
+        "match": "*.demonoid.pw",
         "title": "Demonoid",
         "onion": "demonhkzoijsvvui.onion:8080"
     },
@@ -105,7 +105,7 @@
         "onion": "tngjm3owsslo3wgo.onion"
     },
     {
-        "match": "go-beyond.org",
+        "match": "*.go-beyond.org",
         "title": "GoBeyond",
         "onion": "potatooezyf2aql6.onion"
     },
@@ -125,7 +125,7 @@
         "onion": "vaultu7dxw5bbg37.onion"
     },
     {
-        "match": "obscuredfiles.com",
+        "match": "*.obscuredfiles.com",
         "title": "ObscuredFiles",
         "onion": "obscuredtzevzthp.onion"
     },
@@ -175,27 +175,27 @@
         "onion": "zsolxunfmbfuq7wf.onion"
     },
     {
-        "match": "netzpolitik.org",
+        "match": "*.netzpolitik.org",
         "title": "Netzpolitik",
         "onion": "p6dpm4ozk6d2pxqa.onion"
     },
     {
-        "match": "mail2tor.com",
+        "match": "*.mail2tor.com",
         "title": "Mail2Tor",
         "onion": "mail2tor2zyjdctd.onion"
     },
     {
-        "match": "vfemail.net",
+        "match": "*.vfemail.net",
         "title": "VFEmail",
         "onion": "344c6kbnjnljjzlz.onion"
     },
     {
-        "match": "bitmessage.ch",
+        "match": "*.bitmessage.ch",
         "title": "BitmessageMailGateway",
         "onion": "bitmailendavkbec.onion"
     },
     {
-        "match": "autistici.org",
+        "match": "*.autistici.org",
         "title": "Autistici/Inventati",
         "onion": "wi7qkxyrdpu5cmvr.onion"
     },
@@ -215,17 +215,17 @@
         "onion": "secushare.cheettyiapsyciew.onion"
     },
     {
-        "match": "sci-hub.ac",
+        "match": "*.sci-hub.ac",
         "title": "Sci-Hub",
         "onion": "scihub22266oqcxt.onion"
     },
     {
-        "match": "sci-hub.bz",
+        "match": "*.sci-hub.bz",
         "title": "Sci-Hub",
         "onion": "scihub22266oqcxt.onion"
     },
     {
-        "match": "sci-hub.cc",
+        "match": "*.sci-hub.cc",
         "title": "Sci-Hub",
         "onion": "scihub22266oqcxt.onion"
     },
