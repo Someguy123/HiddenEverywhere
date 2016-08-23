@@ -319,9 +319,11 @@
         "title": "TorrentProject",
         "onion": "x4torrentjjjjuxy.onion"
     },
+    {
         "match": "torrentz2.eu",
         "title": "Torrentz2",
         "onion": "torrentzwealmisr.onion"
+    },
     {
         "match": "*.transfer.sh",
         "title": "TransferSH",
