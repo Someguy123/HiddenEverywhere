@@ -315,6 +315,14 @@
         "onion": "ea5faa5po25cf7fb.onion"
     },
     {
+        "match": "torrentproject.se",
+        "title": "TorrentProject",
+        "onion": "x4torrentjjjjuxy.onion"
+    },
+        "match": "torrentz2.eu",
+        "title": "Torrentz2",
+        "onion": "torrentzwealmisr.onion"
+    {
         "match": "*.transfer.sh",
         "title": "TransferSH",
         "onion": "jxm5d6emw5rknovg.onion"
