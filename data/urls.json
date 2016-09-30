@@ -155,6 +155,11 @@
         "onion": "privacyintyqcroe.onion"
     },
     {
+        "match": "*.propublica.org",
+        "title": "Propublica",
+        "onion": "propub3r6espa33w.onion"
+    },
+    {
         "match": "black.riseup.net",
         "title": "RiseupBlack",
         "onion": "cwoiopiifrlzcuos.onion"
