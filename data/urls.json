@@ -330,6 +330,16 @@
         "onion": "jxm5d6emw5rknovg.onion"
     },
     {
+        "match": "build.voidlinux.eu",
+        "title": "VoidLinux Builds",
+        "onion": "s7y2awkwau4nbdpu.onion"
+    },
+    {
+        "match": "repo.voidlinux.eu",
+        "title": "VoidLinux Repo",
+        "onion": "fd6dqrupy3af4xwb.onion"
+    },
+    {
         "match": "we.riseup.net",
         "title": "WeRiseup",
         "onion": "7lvd7fa5yfbdqaii.onion"
