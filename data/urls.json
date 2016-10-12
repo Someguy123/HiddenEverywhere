@@ -125,6 +125,11 @@
         "onion": "vaultu7dxw5bbg37.onion"
     },
     {
+        "match": "mascherari.press",
+        "title": "mascherari.press",
+        "onion": "7tm2lzezyjwtpn2s.onion"
+    },
+    {
         "match": "*.obscuredfiles.com",
         "title": "ObscuredFiles",
         "onion": "obscuredtzevzthp.onion"
