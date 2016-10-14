@@ -100,6 +100,11 @@
         "onion": "facebookcorewwwi.onion"
     },
     {
+        "match": "*.freedom.press",
+        "title": "Freedom of the Press Foundation",
+        "onion": "freepress3xxs3hk.onion"
+    },
+    {
         "match": "gettor.torproject.org",
         "title": "GetTor",
         "onion": "tngjm3owsslo3wgo.onion"
