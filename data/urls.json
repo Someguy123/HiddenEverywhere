@@ -363,5 +363,10 @@
         "match": "*.whonix.org",
         "title": "Whonix",
         "onion": "kkkkkkkkkk63ava6.onion"
+    },
+    {
+        "match": "z.cash",
+        "title": "Zcash",
+        "onion": "zcashph5mxqjjby2.onion"
     }
 ]
