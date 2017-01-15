@@ -1,7 +1,7 @@
 {
   "title": "HiddenEverywhere",
   "name": "hiddeneverywhere",
-  "version": "0.2.4",
+  "version": "0.2.5",
   "description": "An add-on to help TOR users find hidden services for ClearNet sites they use every day",
   "main": "index.js",
   "author": "Someguy123",
