@@ -368,5 +368,10 @@
         "match": "z.cash",
         "title": "Zcash",
         "onion": "zcashph5mxqjjby2.onion"
+    },
+    {
+        "match": "*.qubes-os.org",
+        "title": "Qubes OS",
+        "onion": "qubesos4rrrrz6n4.onion"
     }
 ]
