@@ -1,9 +1,9 @@
 #HiddenEverywhere
-A Firefox add-on to help TOR users find hidden services for ClearNet sites they use every day.
+A Firefox add-on to help Tor users find hidden services for ClearNet sites they use every day.
 
-Often, I tell people of [Facebook's hidden service](http://arstechnica.com/security/2014/10/facebook-offers-hidden-service-to-tor-users/) only to hear they didn't know. It's been around since 2014, offering TOR users additional security, compared to the Clearnet.
+Often, I tell people of [Facebook's hidden service](http://arstechnica.com/security/2014/10/facebook-offers-hidden-service-to-tor-users/) only to hear they didn't know. It's been around since 2014, offering Tor users additional security, compared to the Clearnet.
 
-The most recent encounter with someone who actively used TOR for their daily activities had me think, "what if Firefox could tell you when a site you're using has a hidden service, even if you're stuck behind a Cloudflare Captcha?".
+The most recent encounter with someone who actively used Tor for their daily activities had me think, "what if Firefox could tell you when a site you're using has a hidden service, even if you're stuck behind a Cloudflare Captcha?".
 
 And thus, this extension was born. When you visit a site such as [LiteVault.net](https://www.litevault.net) or Facebook.com, the extension will inform you that you should be using the hidden service, with a direct link to it.
 
