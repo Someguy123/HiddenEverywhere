@@ -245,6 +245,11 @@
         "onion": "scihub22266oqcxt.onion"
     },
     {
+        "match": "*.smsprivacy.org",
+        "title": "SMS Privacy",
+        "onion": "smspriv6fynj23u6.onion"
+    },
+    {
         "match": "*.swehack.org",
         "title": "swehack",
         "onion": "swehackmzys2gpmb.onion"
