@@ -130,6 +130,11 @@
         "onion": "vaultu7dxw5bbg37.onion"
     },
     {
+      "match": "www.nytimes.com",
+      "title": "The New York Times",
+      "onion": "https://www.nytimes3xbfgragh.onion/"  
+    },
+    {
         "match": "mascherari.press",
         "title": "mascherari.press",
         "onion": "7tm2lzezyjwtpn2s.onion"

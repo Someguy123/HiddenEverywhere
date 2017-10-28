@@ -1,5 +1,6 @@
-#HiddenEverywhere
-A Firefox add-on to help Tor users find hidden services for ClearNet sites they use every day.
+# HiddenEverywhere
+
+### A Firefox add-on to help Tor users find hidden services for ClearNet sites they use every day.
 
 Often, I tell people of [Facebook's hidden service](http://arstechnica.com/security/2014/10/facebook-offers-hidden-service-to-tor-users/) only to hear they didn't know. It's been around since 2014, offering Tor users additional security, compared to the Clearnet.
 
