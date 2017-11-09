@@ -479,5 +479,10 @@
       "match": "paranoid.email",
       "title": "@PARANOID",
       "onion": "paranoid2ezdphvm.onion",
+    },
+    {
+      "match": "searx.me",
+      "title": "SearX",
+      "onion": "ulrn6sryqaifefld.onion",
     }
 ]
