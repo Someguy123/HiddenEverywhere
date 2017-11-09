@@ -485,4 +485,10 @@
       "title": "SearX",
       "onion": "ulrn6sryqaifefld.onion",
     }
+    ,
+    {
+      "match": "metager.de",
+      "title": "MetaGer",
+      "onion": "b7cxf4dkdsko6ah2.onion",
+    }
 ]
