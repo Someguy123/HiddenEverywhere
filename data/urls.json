@@ -120,6 +120,11 @@
         "onion": "grrmailb3fxpjbwm.onion"
     },
     {
+        "match": "*.idope.se",
+        "title": "iDope",
+        "onion": "gv6zipaqcoaau4qe.onion"
+    },
+    {
         "match": "*.keybase.io",
         "title": "Keybase",
         "onion": "fncuwbiisyh6ak3i.onion"
