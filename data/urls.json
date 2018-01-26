@@ -137,7 +137,7 @@
     {
       "match": "www.nytimes.com",
       "title": "The New York Times",
-      "onion": "https://www.nytimes3xbfgragh.onion/"  
+      "onion": "https://www.nytimes3xbfgragh.onion/"
     },
     {
         "match": "mascherari.press",
@@ -393,5 +393,100 @@
         "match": "mail.protonmail.com",
         "title": "ProtonMail",
         "onion": "protonirockerxow.onion"
+    },
+    {
+      "match": "*.endchan.xyz",
+      "title": "Endchan",
+      "onion": "s6424n4x4bsmqs27.onion"
+    },
+    {
+      "match": "reddit.com",
+      "title": "Reddit",
+      "onion": "redditmoongroogs.onion"
+    },
+    {
+      "match": "tinfoil.press",
+      "title": "Tinfoil",
+      "onion": "v245twftq76pls6n.onion"
+    },
+    {
+      "match": "cryptome.org",
+      "title": "Cryptome",
+      "onion": "h2am5w5ufhvdifrs.onion"
+    },
+    {
+      "match": "cryptoparty.is",
+      "title": "CryptoParty.is",
+      "onion": "crypty22ijtotell.onion"
+    },
+    {
+      "match": "archive.org",
+      "title": "Internet Archive",
+      "onion": "archivecrfip2lpi.onion"
+    },
+    {
+      "match": "scryptmail.com",
+      "title": "SCRYPTmail",
+      "onion": "scryptmaildniwm6.onion"
+    },
+    {
+      "match": "securityinabox.org",
+      "title": "Security-in-a-box",
+      "onion": "bpo4ybbs2apk4sk4.onion"
+    },
+    {
+      "match": "devuan.org",
+      "title": "Devuan",
+      "onion": "devuanzuwu3xoqwp.onion"
+    },
+    {
+      "match": "heads.dyne.org",
+      "title": "heads ::: the libre privacy distro",
+      "onion": "fz474h2o46o2u7xj.onion"
+    },
+    {
+      "match": "elude.in",
+      "title": "Elude",
+      "onion": "eludemaillhqfkh5.onion"
+    },
+    {
+      "match": "confidantmail.org",
+      "title": "Confidant Mail",
+      "onion": "cwu7eglxcabwttzf.onion"
+    },
+    {
+      "match": "securejabber.me",
+      "title": "Securejabber.me",
+      "onion": "giyvshdnojeivkom.onion"
+    },
+    {
+      "match": "onionshare.org",
+      "title": "OnionShare",
+      "onion": "elx57ue5uyfplgva.onion"
+    },
+    {
+      "match": "secmail.pro",
+      "title": "SecMail Pro",
+      "onion": "secmailw453j7piv.onion"
+    },
+    {
+      "match": "mailbit.io",
+      "title": "Mailbit io",
+      "onion": "oxicsiwet42jw4h4.onion"
+    },
+    {
+      "match": "paranoid.email",
+      "title": "@PARANOID",
+      "onion": "paranoid2ezdphvm.onion"
+    },
+    {
+      "match": "searx.me",
+      "title": "SearX",
+      "onion": "ulrn6sryqaifefld.onion"
+    },
+    {
+      "match": "creep.im",
+      "title": "Creep.im",
+      "onion": "https://creep7nissfumwyx.onion/"
     }
 ]
